@@ -7,7 +7,7 @@
 void main() {
   //duas formas de criar uma lista
   var aprovados = ['Ana', 'Carlos', 'Rafael'];
-  print(aprovados is List);
+
   print(aprovados);
 
   //acessando os elementos da lista
